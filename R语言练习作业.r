@@ -43,3 +43,22 @@ eggplant = 1
 cucumber = 2
 carrot = 3
 ls(pattern = "a")
+
+
+
+###02R的科学计算
+###问题：
+###2-1.%/%
+###2-2.>X==pi
+###2-3.使用<-或=给（本地）变量赋值.(使用<<-来对全局变量赋值。)
+###2-4.Inf、 -Inf
+###2-5.NaN, NA
+
+
+#03R检查变量和工作区
+#3-1：浮点值numeric、整数integer和复数complex
+#3-2:levels()
+#3-3:x = 6.283185
+#    as.numeric(x)
+#3-4: edit(),fix(),View()
+#3-5:rm()
