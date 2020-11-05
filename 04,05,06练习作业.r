@@ -57,7 +57,7 @@ a <- function(x%%2){
 
 #6-3
 hypotenuse <- function(x=5,y=12){
-  sqrt(x^2,y^2)
+  sqrt(x^2+y^2)
 }
 hypotenuse()
 args(hypotenuse)
